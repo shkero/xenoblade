@@ -1,4 +1,4 @@
-baseurl                  = "https://xenoblade.xyz"           # Your domain name
+baseurl                  = "https://shkero.github.io/xenoblade/"           # Your domain name
 languageCode             = "zh-CN"
 defaultContentLanguage   = "zh"
 isMultilingual           = false
@@ -24,15 +24,11 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "posts"
-    text = "posts"
+    text = "随笔"
 
 [[params.mainMenu]]
     link = "wallpaper"
-    text = "wallpaper"
-
-[[params.mainMenu]]
-    link = "portfolio"
-    text = "portfolio"
+    text = "图片"
 
 [[params.mainMenu]]
     link = "about"
