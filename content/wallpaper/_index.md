@@ -10,5 +10,5 @@ clickablePhotos: false
 
 - https://www.wallpaperup.com/
 
-- [Cyberpunk](/wallpaper/Cyberpunk)
-- [Technology](/wallpaper/Technology)
+- [Cyberpunk](/wallpaper/cyberpunk)
+- [Technology](/wallpaper/technology)
