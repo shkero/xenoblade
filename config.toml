@@ -3,8 +3,7 @@ languageCode             = "zh-CN"
 defaultContentLanguage   = "zh"
 isMultilingual           = false
 title                    = "Xenoblade"
-theme                    = "hugo-theme-sam"
-themesDir                = "./themes/"
+theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 
@@ -21,6 +20,13 @@ pygmentsCodefences       = true
     title                = "Han"
     # rss                = ""
 
+[[params.videoBackground.sources]]
+    source  = "/sample_video.mp4"
+    type    = "video/mp4"
+    poster  = "/background.png"
+[params.videoBackground]
+    overlay = "rgba(0, 0, 0, 0.4)" # optional
+    
 [[params.mainMenu]]
     link = "posts"
     text = "随笔"
