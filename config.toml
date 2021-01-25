@@ -22,15 +22,15 @@ pygmentsCodefences       = true
     # rss                = ""
 
 [[params.mainMenu]]
-    link = "/posts"
+    link = "posts"
     text = "随笔"
 
 [[params.mainMenu]]
-    link = "/wallpaper"
+    link = "wallpaper"
     text = "图片"
 
 [[params.mainMenu]]
-    link = "/about"
+    link = "about"
     text = "无言"
 
 [imaging]
