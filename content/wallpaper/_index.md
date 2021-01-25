@@ -1,7 +1,7 @@
 ---
 title: "wallpaper"
 type: "gallery"
-url: "/wallpaper"
+url: "wallpaper"
 maxWidth: "800x"
 clickablePhotos: false
 ---
@@ -10,5 +10,5 @@ clickablePhotos: false
 
 - https://www.wallpaperup.com/
 
-- [Cyberpunk](/wallpaper/cyberpunk)
-- [Technology](/wallpaper/technology)
+- [Cyberpunk](wallpaper/cyberpunk)
+- [Technology](wallpaper/technology)

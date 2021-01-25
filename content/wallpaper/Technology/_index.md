@@ -1,7 +1,7 @@
 ---
 title: "wallpaper - Technology"
 type: "gallery"
-url: "wallpaper/Technology"
+url: "wallpaper/technology"
 maxWidth: "800x"
 clickablePhotos: false
 ---
