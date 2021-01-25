@@ -6,7 +6,7 @@ maxWidth: "800x"
 clickablePhotos: false
 ---
 
-我喜欢的一些壁纸。
+我喜欢的一些壁纸。!
 
 - https://www.wallpaperup.com/
 
